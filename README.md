@@ -1,5 +1,5 @@
 # Past Project Reference
-Just a quick curated list of past projects from private repositories that have seen the light of day...
+Just a quick curated list of past development projects from private repositories that have seen the light of day...
 
 - https://www.algosolutions.com/
 - https://atiacounselling.com/
